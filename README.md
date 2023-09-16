@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hii I am Aman Khan<br>I am a Web Development Enthusisast and an Open source Contributor<br>I am also interested in new technologies like blockchain, AI, ML and a continuous learner
+<h3>Hii :D I am <h2>Aman Khan</h2><br>I am a Web Development Enthusisast and an Open source Contributor<br>I am also interested in new technologies like blockchain, AI, ML and a continuous learner</h3>
 
 
 ## 🌐 Socials:
