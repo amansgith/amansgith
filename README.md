@@ -4,7 +4,7 @@
 </h1>
 <i align="center">Coding with curiosity, crafting with creativity, and collaborating with passion. Welcome to my world of endless solutions & possibilities!</i>
 <h3 align="center">Web developer | Pre-Final Year at IPU, New Delhi </h3>
-<h2>I am interested in new technologies like blockchain, AI, ML and a continuous learner</h2>
+<h2>I am interested in new technologies like Gen AI, ML and many more</h2>
 - 🌱 I’m currently learning <b>Angular, NestJs and webRTC</b>
 
 
