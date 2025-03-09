@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I am Aman Khan
 </h1>
 <i align="center">Coding with curiosity, crafting with creativity, and collaborating with passion. Welcome to my world of endless solutions & possibilities!</i>
-<h3 align="center">Web developer | Final Year at IPU, New Delhi </h3>
+<h3 align="center">Software developer | Final Year at IPU, New Delhi </h3>
 <h2>I am interested in new technologies like  DevOps, ML and many more</h2>
 - 🌱 I’m currently learning <b>Spring Boot, ML and Linux</b>
 
